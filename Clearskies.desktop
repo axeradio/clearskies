@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_CA]=gnome-panel-launcher
+Name[en_CA]=Clearskies
+Exec=/home/julian/Clearskies/Clearskies
+Name=Clearskies
+Icon=/home/julian/Clearskies/Clearskies.ico

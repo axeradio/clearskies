@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /home/julian/Clearskies/ 
+gksudo python Clearskies.py
